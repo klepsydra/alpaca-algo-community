@@ -4,7 +4,7 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-alpaca-trade-api = "0.38"
+alpaca-trade-api = "0.44"
 
 
 [dev-packages]
